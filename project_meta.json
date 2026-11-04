@@ -1,10 +1,17 @@
 {
-  "seq": 20,
   "title": "Machine Learning-Based Anomaly Detection for SME Network Traffic",
-  "slug": "machine-learning-based-anomaly-detection-for-sme-networ",
+  "old_slug": "machine-learning-based-anomaly-detection-for-sme-networ",
+  "slug": "ml-network-anomaly-detection",
   "folder": "Machine_Learning_Based_Anomaly_Detection_For_Sme",
   "kind": "ai",
-  "body_words": 248,
+  "body_words": 318,
+  "source": "SCI700",
   "project_id": "Project 22",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
