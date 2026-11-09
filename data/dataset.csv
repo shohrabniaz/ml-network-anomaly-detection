@@ -1,9 +1,9 @@
 id,text,label
-1,Urgent invoice payment wire now,risk
-2,Weekly status update attached,benign
-3,Reset your password phishing page,risk
-4,Meeting notes from standup,benign
-5,Fraud alert verify account,risk
-6,HR policy acknowledgement,benign
-7,Malware scan clean report,benign
-8,Suspicious login from abroad,risk
+1,Urgent ml-network-anomaly-detection alert require immediate action,risk
+2,Weekly ml-network-anomaly-detection status looks normal,benign
+3,Suspicious ml-network-anomaly-detection anomaly detected please verify,risk
+4,Routine ml-network-anomaly-detection maintenance completed,benign
+5,Fraud pattern in ml-network-anomaly-detection submissions,risk
+6,Training notes for ml-network-anomaly-detection operators,benign
+7,Phishing attempt referencing ml-network-anomaly-detection,risk
+8,All clear report for ml-network-anomaly-detection queue,benign
